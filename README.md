@@ -7,12 +7,12 @@ This project implements a Retrieval-Augmented Generation (RAG) system to answer 
 
 # ✨ Features
 
-- Hybrid Retrieval System: Combines BM25 and dense embeddings through reciprocal rank fusion for improved retrieval performance
-- Web Scraping Module: Automatically extracts Hadith texts from sunnah.com with proper attribution
-- Chunking & Processing: Intelligently splits Hadiths into manageable chunks while preserving context
-- Vector Storage: Uses Chroma DB for efficient similarity search
-- Self-Evaluation: Includes metrics for evaluating response faithfulness and relevance
-- Lightweight LLM: Utilizes Qwen2.5-3B-Instruct, a lightweight but powerful language model
+- **Hybrid Retrieval System:** Combines BM25 and dense embeddings through reciprocal rank fusion for improved retrieval performance
+- **Web Scraping Module:** Automatically extracts Hadith texts from sunnah.com with proper attribution
+- **Chunking & Processing:** Intelligently splits Hadiths into manageable chunks while preserving context
+- **Vector Storage:** Uses Chroma DB for efficient similarity search
+- **Self-Evaluation:** Includes metrics for evaluating response faithfulness and relevance
+- **Lightweight LLM:** Utilizes Qwen2.5-3B-Instruct, a lightweight but powerful language model
 
 # 🛠️ Technical Architecture
 
