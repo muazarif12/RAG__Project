@@ -1,0 +1,10 @@
+rank-bm25
+langchain-community
+beautifulsoup4
+requests
+transformers
+sentence-transformers
+faiss-cpu
+chromadb
+tqdm
+scikit-learn
